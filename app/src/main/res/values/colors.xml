@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF8C8A</color>
+    <color name="colorPrimaryDark">#F56664</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="light_black">#161515</color>
+    <color name="color_white">#fdfdfb</color>
+    <color name="light_white">#F0F0F0</color>
+    <color name="color_black">#000000</color>
+    <color name="color_blue">#40C4FF</color>
+    <color name="color_blueDark">#3498DB</color>
+    <color name="color_GreenRight">#2ECC71</color>
+    <color name="color_RedWrong">#FF5E57</color>
+    <color name="color_Bluenavy">#34496E</color>
+    <color name="color_Orange">#F9690C</color>
+    <color name="color_gray">#8e8f8f</color>
+    <color name="colorDarkgray">#42423f</color>
+    <color name="btncolor">#42423f</color>
+    <color name="toolbartextcolor">#fdbf14</color>
+    <color name="backgroundcolor">#f6f4f4</color>
+    <color name="subjectcolor">#e00224</color>
+    <color name="subjectcolor1">#42423f</color>
+    <color name="btncolortwo">#009688</color>
+    <color name="greenDark">#0f9d58</color>
+    <color name="selety">#6b6a6a</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#009688</color>
+    <color name="slety">#757575</color>
+    <color name="abhigyan_exam">#69F0AE</color>
+    <color name="colorBlackTrans">#d4212121</color>
+    <color name="dark_red">#C72C2F</color>
+    <color name="brown">#58515E</color>
+
+    <color name="yellow">#FAD55C</color>
+    <color name="light_yellow">#90FCF5DD</color>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="anim_duration_medium" />
+    <integer name="anim_duration_long" />
+    <integer name="anim_length"/>
+    <integer name="anim_length_half"/>
+    <integer name="swing_anim_time">750</integer>
+
+</resources>

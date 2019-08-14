@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:padding="15dp"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="25dp"
+        android:weightSum="3"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.9"
+            android:src="@drawable/ic_internet_cable" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/tvheader"
+            android:layout_weight=".4"
+            android:textSize="25sp"
+            android:textAllCaps="true"
+            android:text=""
+            android:lineSpacingExtra="2dp"
+            android:layout_marginTop="5dp"
+            android:gravity="start|center"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/color_black"
+            android:layout_centerVertical="true" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".25"
+            android:textSize="16sp"
+            android:text="Please check your network connection."
+            android:gravity="start|center"
+            android:fontFamily="sans-serif"
+            android:layout_centerVertical="true" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".25"
+            android:layout_marginTop="20dp"
+            android:layout_alignParentBottom="true"
+            android:text="Try Again"
+            android:id="@+id/btn_tryAgain"
+            android:textAllCaps="true"
+            android:elevation="5dp"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/color_black"
+            android:background="@color/color_gray"
+            android:gravity="center"/>
+    </LinearLayout>
+
+</RelativeLayout>
